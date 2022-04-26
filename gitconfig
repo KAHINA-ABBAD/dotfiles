@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kahina.hinniabbad@gmail.com
+	name = kahina abbad
